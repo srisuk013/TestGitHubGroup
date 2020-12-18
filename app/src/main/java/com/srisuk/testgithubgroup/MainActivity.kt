@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
     fun not(){
 
     }
+
+    fun dom(){
+
+    }
 }
